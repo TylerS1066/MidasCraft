@@ -1,0 +1,12 @@
+name: MidasCraft
+version: '${project.version}'
+main: net.tylers1066.midascraft.MidasCraft
+api-version: 1.14
+depend: [ Movecraft ]
+authors: [ TylerS1066 ]
+description: Turn your crafts into gold, for the memes
+website: https://github.com/TylerS1066/MidasCraft
+commands:
+  midas:
+    description: Turn your craft to gold!
+    usage: /midas
